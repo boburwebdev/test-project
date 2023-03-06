@@ -1,3 +1,3 @@
 # test-project
 
-playground for git
+git playground
